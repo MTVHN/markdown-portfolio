@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Hiking
+- Reading
+- Playing Soccer
+- Playing Video games
